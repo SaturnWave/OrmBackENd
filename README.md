@@ -60,7 +60,6 @@ From the command line, run:
 
 
 
- Github: <a href="https://github.com/rdevans87">rdevans87</a>
 
 
 
