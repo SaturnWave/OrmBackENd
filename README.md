@@ -11,11 +11,6 @@ The `schema.sql` file in the `db` folder was run in `MySQL Workbench` to create 
 With the `node.js` packages installed and database seeded without error, run `NPM Start` to start the server and connect to local host [http://localhost:3001/](http://localhost:3001/). Then, an API GET request is performed for each route displaying in JSON format. All API `POST, PUT, and DELETE` routes are tested in Insomnia Core. I am able to successfully create, update, and delete data in my database.
 
 
-### [Repository on Github](https://github.com/rdevans87/ORM-ECommerce-BackEnd)
-
-### [README deployed on GitHub pages](https://rdevans87.github.io/ORM-ECommerce-BackEnd/)
-
-### Watch a demo of the Application's functionality: [E-Commerce Backend Demo](https://youtu.be/qtB-rwrJnYY)
 
 
 ## User Story
@@ -62,24 +57,10 @@ From the command line, run:
 
 
 
-## Grading Requirements
-
-```md
-
-  * Deliverables: 10%
-  
-  * Walkthrough Video: 37%
-
-  * Technical Acceptance Criteria: 40%
-
-  * Repository Quality: 13%
-
-  ```
 
 
 
  Github: <a href="https://github.com/rdevans87">rdevans87</a>
 
 
-[LICENSE FROM MIT](/Users/ryanevans/ORM-ECommerce-BackEnd/LICENSE)
 
