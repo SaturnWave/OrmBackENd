@@ -59,18 +59,6 @@ From the command line, run:
 `npm run start`
 
 
-## Mock-Up
-The following animation shows the application's GET, POST, PUT, and DELETE routes for `TAGS` being tested in Insomnia Core:
-
-![In Insomnia Core, the user tests “GET tags,” “GET tag by ID" ,and “PUT update Tag" , "DELETE Tag by ID" , "POST create New Tag”.](./assets/categories.gif)
-
-The following animation shows the application's GET, POST, PUT, and DELETE routes for `CATEGORIES` being tested in Insomnia Core:
-
-![In Insomnia Core, the user tests "GET Categories", “GET Categories by ID”, “PUT update Category", "DELETE category by ID", "POST create category".](./assets/categories.gif)
-
-The following animation shows the application's GET, POST, PUT, and DELETE routes for `PRODUCTS` being tested in Insomnia Core:
-
-![In Insomnia Core, the user tests “GET product", "GET products", “CREATE product,” and “UPDATE product.”](./assets/product.gif)
 
 
 
@@ -88,9 +76,7 @@ The following animation shows the application's GET, POST, PUT, and DELETE route
 
   ```
 
-## Questions
- 
- Email: <a href="mailto:rdevans87@gmail.com">rdevans87@gmail.com</a>
+
 
  Github: <a href="https://github.com/rdevans87">rdevans87</a>
 
